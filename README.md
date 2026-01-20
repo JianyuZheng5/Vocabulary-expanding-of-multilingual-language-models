@@ -5,5 +5,5 @@
 
 Use the ```train_random.py``` script to further pre-train multilingual BERT (mBERT) with an extended vocabulary which are randomly represented;<br>
 Use the ```train_sim.py``` script to further pre-train multilingual BERT (mBERT) with an extended vocabulary which are initialized represented using our method;<br>
-valuate the extended models on the ```[XTREME](https://dl.acm.org/doi/10.5555/3524938.3525348)``` benchmark. 
+valuate the extended models on the [XTREME](https://dl.acm.org/doi/10.5555/3524938.3525348) benchmark. 
 
